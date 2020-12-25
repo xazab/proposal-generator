@@ -1,12 +1,12 @@
-var Bitcore = require('@dashevo/dashcore-lib');
+var Bitcore = require('@xazab/xazabcore-lib');
 
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://insight.dashevo.org';
+var mainnetProvider = 'https://insight.xazab.xyz/';
 var mainnetPrefix = '/insight-api';
 
-var testnetProvider = 'https://testnet-insight.dashevo.org';
+var testnetProvider = 'https://testnet-insight.xazab.xyz';
 var testnetPrefix = '/insight-api';
 
 var init = function(network, provider, prefix) {
