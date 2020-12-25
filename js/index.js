@@ -3,7 +3,7 @@ var Bitcore = require('@xazab/xazabcore-lib');
 var socket;
 var paymentCycle;
 
-var mainnetProvider = 'https://insight.xazab.xyz/';
+var mainnetProvider = 'https://insight.xazab.xyz';
 var mainnetPrefix = '/insight-api';
 
 var testnetProvider = 'https://testnet-insight.xazab.xyz';
