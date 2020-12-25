@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/xazab/proposal-generator#readme",
   "devDependencies": {
-    "@xazab/xazabcore-lib": "^0.16.8",
+    "@xazab/xazabcore-lib": "^0.18.12",
     "browserify": "^16.2.3",
     "eslint": "^5.13.0"
   }
